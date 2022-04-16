@@ -1,22 +1,18 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+<img src="https://i.imgur.com/XSFK6Br.png" />
 
-# Título
+# Usando o Transform para criar um Menu 3D no Flutter
 
-Introdução ao seu projeto. Apresentado por [Seu nome][1].
+Neste projeto é apresentado como usar o Widget [Transform][3] para criar um menu 3D no [Flutter Desktop][2].
 
-> __Atenção__: Este é o projeto <template/completo>, se você está procurando o projeto de <completo/template>, vá para [este repositório](https://github.com/rocketseat-experts-club/<seu projeto aqui>)
-
-## Instalação
-
-1. Use este template
-2. Edite o README.md
-3. Adicione seus arquivos
+Apresentado por [Alessandro Dutra de Andrade (Cachopaweb)][1].
 
 ## Expert
 
-| [<img src="https://github.com/<seu handle>.png" width="75px;"/>][1] |
+| [<img src="https://github.com/cachopaweb.png" width="75px;"/>][1] |
 | :-: |
 |[Creator][1]|
 
 
-[1]: https://seusite.com.br
+[1]: https://github.com/cachopaweb
+[2]: https://flutter.dev/multi-platform/desktop
+[3]: https://api.flutter.dev/flutter/widgets/Transform-class.html
